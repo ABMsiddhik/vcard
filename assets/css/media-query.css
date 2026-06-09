@@ -1,6 +1,7 @@
 @media (max-width: 400px) {
 	.logo-details-wrap{
 		width: 230px;
+		padding-top:25px;
 	}
 	.social-media{
 		gap: 16px;
